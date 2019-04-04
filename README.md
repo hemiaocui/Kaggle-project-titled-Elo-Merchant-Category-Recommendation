@@ -1,4 +1,4 @@
-# Elo, one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. 
+Elo, one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. 
 This project is to understand whether Elo is effectively deliverying product to its customer by developing algorithm to predict card loyalty. 
 
 Outcome of this project: 
