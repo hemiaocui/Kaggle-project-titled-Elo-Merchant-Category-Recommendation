@@ -2,6 +2,7 @@ Elo, one of the largest payment brands in Brazil, has built partnerships with me
 This project is to understand whether Elo is effectively deliverying product to individual customer by developing algorithm to predict card loyalty. 
 
 Outcome of this project: 
+
 •	Performed data wrangling on >3GB Elo card transaction data using AWS EC2 and engineered >100 new features
 
 •	Applied gradient boosting (LightGBM) to predict customer loyalty score and identified important features 
